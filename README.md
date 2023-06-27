@@ -1,2 +1,3 @@
-# Snap-Git-fourm
-Use the issues
+#fourm
+
+please don't advertize
